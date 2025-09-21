@@ -14,7 +14,7 @@
 1. **Clonar el repositorio**  
    Abrí una terminal y ejecutá:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPO.git
+   git clone https://github.com/fedeavila/js-avanzado.git
    cd TU_REPO
 2. **Abrir el proyecto**
    Dentro de la carpeta descargada vas a encontrar el archivo:
